@@ -9,12 +9,12 @@ CREATE TABLE Genre (
 -- Describe Genre table
 DESC Genre;
 
-create table Admin (
+CREATE TABLE Admin (
 	admin_id INT PRIMARY KEY
 );
 DESC admin;
 
-create table Studio (
+CREATE TABLE Studio (
 	studio_id INT PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
     head_location VARCHAR(50) NOT NULL,
@@ -34,3 +34,45 @@ CREATE TABLE VideoGame (
     FOREIGN KEY (studio_id) REFERENCES Studio(studio_id)
 );
 DESC VideoGame;
+
+CREATE TABLE User (
+	user_id INT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    # password uses VARCHAR(255) to accomodate length of hashed password
+    password VARCHAR(255) NOT NULL, 
+    age INT,
+    registration_date DATE
+);
+DESC User;
+
+CREATE TABLE Rating (
+	rating_id INT PRIMARY KEY,
+    user_id INT NOT NULL,
+    game_id INT NOT NULL,
+	FOREIGN KEY (user_id) REFERENCES User(user_id),
+	FOREIGN KEY (game_id) REFERENCES VideoGame(game_id),
+	review VARCHAR(1000),
+    rating_date DATE
+);
+DESC Rating;
+
+CREATE TABLE Recommendation (
+	recommendation_id INT PRIMARY KEY,
+    user_id INT NOT NULL,
+    game_id INT NOT NULL,
+    reason VARCHAR(1000),
+	FOREIGN KEY (user_id) REFERENCES User(user_id),
+	FOREIGN KEY (game_id) REFERENCES VideoGame(game_id)
+);
+DESC Recommendation;
+
+CREATE TABLE Wishlist (
+	wishlist_id INT PRIMARY KEY,
+    user_id INT NOT NULL,
+    game_id INT NOT NULL,
+    added_date DATE,
+    comments VARCHAR(1000),
+	FOREIGN KEY (user_id) REFERENCES User(user_id),
+	FOREIGN KEY (game_id) REFERENCES VideoGame(game_id)
+);
+DESC Wishlist;
