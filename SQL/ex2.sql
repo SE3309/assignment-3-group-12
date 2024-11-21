@@ -51,6 +51,7 @@ CREATE TABLE Rating (
     game_id INT NOT NULL,
 	FOREIGN KEY (user_id) REFERENCES User(user_id),
 	FOREIGN KEY (game_id) REFERENCES VideoGame(game_id),
+    score INT,
 	review VARCHAR(1000),
     rating_date DATE
 );
