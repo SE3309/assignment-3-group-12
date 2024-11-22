@@ -1,0 +1,201 @@
+game_id,title,genre_id,release_date,platform,studio_id,publisher
+1,Cross-platform cohesive hardware,1,2013-10-31,PC,2,Capcom
+2,Proactive 24/7 architecture,1,1975-01-24,Switch,1,Square Enix
+3,User-friendly homogeneous infrastructure,1,1991-06-13,Xbox,1,Ubisoft
+4,Compatible bi-directional neural-net,1,1985-05-10,Switch,1,CD Projekt
+5,Monitored homogeneous process improvement,1,1978-10-09,PC,20,IO Interactive
+6,User-friendly asynchronous definition,1,2013-09-08,Switch,7,Spike Chunsoft
+7,Open-source bandwidth-monitored conglomeration,1,1970-08-08,Xbox,1,Polyphony Digital
+8,Mandatory national pricing structure,1,1985-02-01,Xbox,20,2K Sports
+9,Up-sized mission-critical interface,1,1974-10-05,PC,7,SNK
+10,Realigned systemic moderator,1,2003-06-19,Xbox,7,Nitroplus
+11,Adaptive zero-defect intranet,2,2010-04-06,Switch,36,Infinity Ward
+12,Pre-emptive modular capacity,2,2009-07-16,PS5,29,Epic Games
+13,Profit-focused fresh-thinking product,2,1997-04-07,Switch,36,Firaxis Games
+14,User-centric zero-defect methodology,2,1995-04-17,PC,36,Frictional Games
+15,Future-proofed static support,2,2020-10-28,Switch,20,Electronic Arts
+16,Organic radical circuit,2,2002-08-03,PC,29,Respawn Entertainment
+17,Reduced fresh-thinking architecture,2,2012-05-26,PS5,29,Square Enix
+18,Total zero tolerance support,2,1975-04-12,PS5,36,Creative Assembly
+19,Focused empowering workforce,2,2020-12-28,Switch,20,Blizzard Entertainment
+20,Expanded mission-critical concept,2,1982-09-08,Switch,36,Epic Games
+21,Open-source dedicated array,3,1979-11-15,PC,29,Capcom
+22,Switchable 24/7 flexibility,3,2023-01-22,Switch,27,Activision Blizzard
+23,Cross-group optimal encoding,3,2006-09-26,Xbox,29,Rockstar Games
+24,Horizontal empowering focus group,3,1976-12-08,PS5,3,Mojang Studios
+25,Triple-buffered bottom-line neural-net,3,1981-12-11,Xbox,26,Bethesda Softworks
+26,Customizable multi-tasking framework,3,2021-09-20,Switch,3,Activision Blizzard
+27,Streamlined impactful ability,3,2003-12-29,Switch,3,Spike Chunsoft
+28,De-engineered attitude-oriented focus group,3,1972-09-06,Switch,29,PopCap Games
+29,Centralized cohesive secured line,3,2020-11-25,PC,3,Sega
+30,Fully-configurable national definition,3,1975-10-08,Xbox,27,Bloober Team
+31,User-friendly impactful parallelism,4,1970-06-14,PS5,24,Frictional Games
+32,Stand-alone 24/7 time-frame,4,2019-07-28,PC,24,Harmonix
+33,Operative high-level contingency,4,1975-07-24,PC,5,Creative Assembly
+34,Fundamental methodical intranet,4,1986-08-17,PS5,24,NetherRealm Studios
+35,Front-line empowering architecture,4,2022-10-23,Switch,24,Nitroplus
+36,Public-key client-driven function,4,1979-07-15,PS5,11,Nintendo
+37,Devolved tertiary success,4,1971-09-05,PS5,5,Epic Games
+38,Optional content-based analyzer,4,2007-08-06,PC,24,Rockstar Games
+39,Seamless user-facing orchestration,4,2017-04-29,PC,11,Capcom
+40,Cloned context-sensitive instruction set,4,2012-11-03,Xbox,5,Bloober Team
+41,Persistent responsive projection,5,1981-05-18,Xbox,16,Bioware
+42,Sharable radical hierarchy,5,2006-12-04,Switch,16,Polyphony Digital
+43,Re-engineered fault-tolerant Local Area Network,5,2009-03-17,PS5,6,Sega
+44,Centralized web-enabled budgetary management,5,2007-01-22,PC,6,Paradox Interactive
+45,Re-engineered context-sensitive artificial intelligence,5,1976-02-12,PS5,6,Maxis
+46,Networked systemic portal,5,2005-08-27,PS5,6,Bioware
+47,Polarized dedicated product,5,2018-10-16,PC,16,Mojang Studios
+48,Fundamental grid-enabled array,5,1986-05-08,Switch,16,Sega
+49,Managed regional forecast,5,1988-02-23,Xbox,16,Paradox Interactive
+50,Monitored radical collaboration,5,1992-07-12,PS5,4,Capcom
+51,Total multimedia protocol,6,1980-08-08,PS5,37,Sega
+52,Cross-group maximized secured line,6,1994-03-19,PC,30,Respawn Entertainment
+53,Enhanced multi-tasking info-mediaries,6,1993-10-22,Switch,30,Kojima Productions
+54,Inverse next generation productivity,6,2023-06-06,PC,37,Epic Games
+55,Progressive 5thgeneration collaboration,6,2010-09-21,PC,30,IO Interactive
+56,Optimized empowering archive,6,2003-02-11,Switch,37,Respawn Entertainment
+57,Multi-tiered asynchronous Local Area Network,6,1995-01-12,Switch,30,Infinity Ward
+58,User-centric scalable projection,6,1981-10-15,PS5,37,Rockstar Games
+59,Visionary maximized orchestration,6,1996-11-18,Switch,19,Konami
+60,Re-contextualized dedicated secured line,6,1996-12-26,Switch,19,Square Enix
+61,Decentralized analyzing focus group,7,1985-08-06,Switch,36,Infinity Ward
+62,Decentralized web-enabled policy,7,1983-04-20,Switch,31,Daybreak Game Company
+63,Automated bifurcated system engine,7,1978-05-24,PC,36,Rockstar Games
+64,Function-based clear-thinking extranet,7,1989-09-16,PS5,31,Rockstar Games
+65,Object-based intangible service-desk,7,2013-10-26,Switch,31,Mojang Studios
+66,Right-sized full-range infrastructure,7,1995-10-29,Switch,31,Square Enix
+67,Horizontal even-keeled initiative,7,1976-01-29,Xbox,31,Blizzard Entertainment
+68,Advanced 24hour data-warehouse,7,1996-07-02,PS5,36,Bungie
+69,Managed background contingency,7,1971-10-15,Switch,36,Bungie
+70,Operative regional hardware,7,1991-09-01,Switch,36,Nintendo
+71,Object-based systemic project,8,1993-06-16,Switch,13,Electronic Arts
+72,Distributed didactic function,8,2022-07-05,Xbox,21,Polyphony Digital
+73,User-centric next generation focus group,8,1976-10-18,Switch,13,Activision Blizzard
+74,Open-source executive utilization,8,2007-10-27,PC,8,Creative Assembly
+75,Phased asymmetric benchmark,8,2003-11-04,Switch,21,Activision Blizzard
+76,Synchronized even-keeled system engine,8,2020-12-06,Xbox,21,Polyphony Digital
+77,Organic composite time-frame,8,2010-08-07,Xbox,8,Bungie
+78,Realigned multi-state orchestration,8,1993-08-27,Switch,8,SNK
+79,Profound fault-tolerant time-frame,8,1989-01-14,Xbox,13,Maxis
+80,Total even-keeled open architecture,8,2004-12-10,Switch,8,Frictional Games
+81,Front-line multi-tasking circuit,9,2006-11-09,Switch,9,Firaxis Games
+82,Optimized upward-trending artificial intelligence,9,1992-11-10,Xbox,9,Harmonix
+83,Secured contextually-based function,9,1972-09-01,PS5,15,Polyphony Digital
+84,Organized mobile archive,9,2001-02-24,PS5,15,Frictional Games
+85,Pre-emptive dedicated Internet solution,9,1993-04-05,Xbox,15,Mojang Studios
+86,Streamlined leadingedge throughput,9,1973-05-12,PS5,32,Epic Games
+87,Total maximized intranet,9,1995-07-26,Switch,32,Daybreak Game Company
+88,Networked optimizing secured line,9,2021-12-30,Switch,15,Respawn Entertainment
+89,Monitored tertiary system engine,9,2005-04-25,Switch,32,Activision Blizzard
+90,Customizable solution-oriented capability,9,2021-12-18,Xbox,15,Sega
+91,Distributed multi-state productivity,10,1977-04-03,PC,36,CD Projekt
+92,Profound zero tolerance middleware,10,1981-01-09,Xbox,40,Codemasters
+93,Public-key multimedia functionalities,10,2002-12-12,PS5,36,Bungie
+94,Business-focused static open system,10,2014-08-04,Xbox,40,Polyphony Digital
+95,Seamless leadingedge array,10,1994-11-16,PS5,36,Sony Interactive Entertainment
+96,Public-key maximized data-warehouse,10,2024-10-03,PC,36,PopCap Games
+97,Exclusive mission-critical alliance,10,1986-02-24,PC,40,Rockstar Games
+98,Stand-alone value-added hardware,10,1996-06-17,PC,36,Blizzard Entertainment
+99,Fully-configurable bifurcated Internet solution,10,2012-12-26,Xbox,36,Blizzard Entertainment
+100,Digitized human-resource benchmark,10,2003-08-08,Xbox,40,CD Projekt
+101,Seamless regional throughput,11,2001-12-13,Xbox,10,Konami
+102,Self-enabling cohesive focus group,11,1991-02-01,PC,18,Creative Assembly
+103,Compatible uniform core,11,2012-03-04,Switch,25,Infinity Ward
+104,Digitized systematic orchestration,11,1983-07-23,PC,10,Bungie
+105,Open-source intangible Graphic Interface,11,2004-04-07,PS5,25,Blizzard Entertainment
+106,Exclusive local focus group,11,1995-04-21,PC,10,IO Interactive
+107,Optimized methodical synergy,11,1994-11-29,Xbox,18,Mojang Studios
+108,Visionary global forecast,11,2008-11-10,Switch,25,Polyphony Digital
+109,Networked multi-state help-desk,11,2002-01-12,PC,18,Sony Interactive Entertainment
+110,Object-based secondary standardization,11,1988-11-07,PS5,10,IO Interactive
+111,Robust disintermediate focus group,12,1972-09-01,Xbox,13,CD Projekt
+112,Open-source needs-based structure,12,2024-03-09,PS5,14,Frictional Games
+113,Re-contextualized maximized Local Area Network,12,1973-08-06,Xbox,14,Creative Assembly
+114,Secured high-level support,12,2002-01-16,Xbox,13,Bethesda Softworks
+115,Up-sized tangible application,12,1991-09-10,PC,12,Harmonix
+116,Future-proofed methodical time-frame,12,2011-03-31,PC,13,CD Projekt
+117,User-centric solution-oriented project,12,1999-06-05,Switch,14,Kojima Productions
+118,Upgradable interactive interface,12,1972-02-23,PC,12,CD Projekt
+119,Realigned zero administration knowledgebase,12,1998-10-12,PC,13,Nintendo
+120,Proactive interactive interface,12,1989-08-06,PC,12,Konami
+121,De-engineered asynchronous approach,13,1999-05-18,PC,3,PopCap Games
+122,Quality-focused high-level attitude,13,1998-08-12,Xbox,27,Mojang Studios
+123,Profound homogeneous circuit,13,2000-02-05,Switch,27,Bloober Team
+124,Proactive high-level instruction set,13,2010-12-26,PS5,27,Infinity Ward
+125,Right-sized homogeneous focus group,13,2019-03-03,PS5,3,Harmonix
+126,Profit-focused 5thgeneration migration,13,1985-07-29,Xbox,7,Konami
+127,Down-sized background open system,13,1995-07-01,Switch,27,2K Sports
+128,Centralized 6thgeneration budgetary management,13,1995-07-21,PC,3,Nintendo
+129,Object-based asymmetric array,13,1992-07-27,Switch,7,Blizzard Entertainment
+130,Reverse-engineered maximized pricing structure,13,2004-06-12,Xbox,3,SNK
+131,Face-to-face web-enabled extranet,14,1994-12-22,PC,23,Sony Interactive Entertainment
+132,Automated demand-driven array,14,2020-09-23,Switch,38,Frictional Games
+133,Progressive system-worthy extranet,14,2021-11-25,Xbox,38,Polyphony Digital
+134,Reduced regional function,14,1981-11-29,Switch,38,2K Sports
+135,Programmable system-worthy time-frame,14,2016-09-07,Xbox,38,Kojima Productions
+136,Up-sized modular Local Area Network,14,1982-12-23,PS5,38,Frontier Developments
+137,Advanced bandwidth-monitored algorithm,14,2023-10-24,Xbox,1,Paradox Interactive
+138,Profound leadingedge middleware,14,1980-10-18,Xbox,38,Capcom
+139,Networked zero tolerance neural-net,14,1973-01-26,Xbox,38,Klei Entertainment
+140,Advanced regional functionalities,14,1991-07-15,Xbox,38,Kojima Productions
+141,User-centric multi-state extranet,15,1990-11-14,Xbox,33,Activision Blizzard
+142,Secured leadingedge infrastructure,15,2017-11-05,Xbox,17,Bungie
+143,Self-enabling motivating forecast,15,1989-01-12,Xbox,33,Nitroplus
+144,Focused grid-enabled moratorium,15,2014-12-03,Xbox,17,Bungie
+145,Visionary interactive product,15,2022-08-04,Switch,33,Bioware
+146,Integrated 4thgeneration infrastructure,15,2023-06-01,Switch,33,Ubisoft
+147,Future-proofed directional orchestration,15,2005-09-09,PC,33,Codemasters
+148,Profit-focused background time-frame,15,1972-08-21,PS5,17,Nitroplus
+149,Compatible radical hierarchy,15,2003-04-27,Xbox,17,Mojang Studios
+150,Multi-layered encompassing Graphical User Interface,15,1978-02-19,Xbox,17,Capcom
+151,Robust system-worthy extranet,16,2021-02-10,PC,35,Polyphony Digital
+152,Devolved hybrid definition,16,1995-12-12,PS5,35,Electronic Arts
+153,Extended uniform middleware,16,1998-07-17,Switch,36,Mojang Studios
+154,Multi-tiered didactic framework,16,2008-08-05,Switch,35,Codemasters
+155,Expanded systematic customer loyalty,16,1984-03-13,Xbox,36,Paradox Interactive
+156,Managed dedicated framework,16,2000-11-18,Xbox,35,CD Projekt
+157,Stand-alone static system engine,16,2019-03-30,Switch,36,Criterion Games
+158,Operative discrete orchestration,16,2022-03-19,Xbox,36,Activision Blizzard
+159,Polarized heuristic installation,16,2005-10-05,PC,35,Mojang Studios
+160,Upgradable disintermediate matrices,16,2017-12-14,Xbox,35,Firaxis Games
+161,Team-oriented bottom-line migration,17,1985-02-07,PC,34,Criterion Games
+162,Operative intangible focus group,17,1971-07-25,PS5,34,Creative Assembly
+163,Synergistic bottom-line structure,17,1983-03-18,PS5,34,Maxis
+164,User-centric dynamic installation,17,2019-03-19,Switch,28,Bloober Team
+165,Sharable 24hour process improvement,17,1986-08-22,Switch,28,Firaxis Games
+166,Diverse homogeneous analyzer,17,1989-05-13,Switch,28,Bloober Team
+167,Object-based bandwidth-monitored hardware,17,1981-12-05,Xbox,28,Daybreak Game Company
+168,Fundamental human-resource knowledgebase,17,2016-06-19,Xbox,28,Mojang Studios
+169,Operative eco-centric conglomeration,17,1995-06-30,Xbox,34,Firaxis Games
+170,Vision-oriented system-worthy firmware,17,1988-08-22,PS5,34,Ubisoft
+171,Future-proofed real-time installation,18,2002-03-24,PC,22,Daybreak Game Company
+172,Secured asynchronous approach,18,1977-01-14,PS5,22,Polyphony Digital
+173,Compatible responsive task-force,18,2021-04-30,Xbox,39,Mojang Studios
+174,Re-engineered neutral focus group,18,1976-11-15,Switch,39,Frictional Games
+175,Profit-focused didactic moratorium,18,1990-05-13,Switch,22,Bethesda Softworks
+176,Managed intangible hierarchy,18,2004-09-24,PS5,22,Harmonix
+177,Versatile local success,18,1996-12-22,PS5,39,Harmonix
+178,Monitored contextually-based algorithm,18,1994-02-15,Xbox,22,PopCap Games
+179,Pre-emptive bandwidth-monitored analyzer,18,1989-02-12,PC,22,Nitroplus
+180,Integrated neutral throughput,18,2022-11-01,Switch,22,Klei Entertainment
+181,Realigned didactic website,19,1971-09-09,Xbox,6,Respawn Entertainment
+182,Secured tangible database,19,2019-04-29,Switch,29,2K Sports
+183,Decentralized mission-critical archive,19,2012-12-27,PS5,6,Nitroplus
+184,Horizontal client-driven database,19,2006-02-25,PC,29,Spike Chunsoft
+185,Configurable cohesive matrix,19,1981-07-17,PC,29,PopCap Games
+186,Re-engineered client-server complexity,19,1978-10-27,Switch,29,2K Sports
+187,Open-source 4thgeneration knowledgebase,19,1990-05-31,Xbox,6,Electronic Arts
+188,Inverse human-resource throughput,19,1989-07-19,Switch,6,Kojima Productions
+189,Persistent demand-driven hub,19,1997-03-07,Switch,29,Daybreak Game Company
+190,Focused intangible hierarchy,19,2005-12-12,Xbox,6,Infinity Ward
+191,Self-enabling reciprocal matrices,20,1993-02-06,Xbox,20,IO Interactive
+192,Advanced systematic moratorium,20,1976-04-13,PS5,20,Nintendo
+193,Multi-channeled real-time budgetary management,20,1980-10-23,Xbox,36,Bungie
+194,Programmable system-worthy architecture,20,2001-12-27,PS5,20,Konami
+195,Reverse-engineered bandwidth-monitored middleware,20,2008-10-14,Switch,20,PopCap Games
+196,De-engineered high-level archive,20,2016-05-13,Switch,36,Activision Blizzard
+197,Enhanced upward-trending workforce,20,2018-07-11,PS5,36,Mojang Studios
+198,Devolved asynchronous analyzer,20,1982-10-14,PS5,20,Maxis
+199,Synergistic didactic superstructure,20,1993-09-09,Xbox,20,2K Sports
+200,Grass-roots mobile application,20,1970-01-19,Xbox,36,Kojima Productions
